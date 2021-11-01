@@ -1,8 +1,18 @@
 ![PRs Welcome](https://img.shields.io/badge/license-free-blue)
 
-Custom configuration file to CS:GO made completly by me
+Custom configuration file to CS:GO made completly by me.
 
 ## Description
+* Sound settings
+* Model settings
+* HUD settings
+* Radar settings
+* Crosshair settings
+* Connection settings
+* Server settings
+* Game settings
+* Other settings
+* Key binds
 
 ## Installation
 
