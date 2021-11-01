@@ -5,6 +5,7 @@ Custom configuration file to CS:GO made completly by me
 ## Description
 
 ## Installation
+
 Open `Steam` and go to `Steam Library`, right click on `Counter-Strike: Global Offensive` and choose `Manage...`.
 
 In section `Startup parameters` write or paste following text:
