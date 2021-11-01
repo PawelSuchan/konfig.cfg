@@ -1,4 +1,6 @@
-![PRs Welcome](https://img.shields.io/badge/license-free-blue)
+## konfig.cfg
+
+![PRs Welcome](https://img.shields.io/badge/license-free-blue) lol.
 
 Custom configuration file to CS:GO made completly by me.
 
