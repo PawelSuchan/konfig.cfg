@@ -1,6 +1,4 @@
 ![PRs Welcome](https://img.shields.io/badge/license-free-blue)
-
-# konfig.cfg
 Custom configuration file to CS:GO made completly by me
 
 ## Description
@@ -17,3 +15,7 @@ In left menu choose `Local files` and click `Browse...`.
 You should now be inside CS:GO installation directory, go to `csgo` folder and then find `cfg` folder.
 
 Paste `konfig.cfg` here. That's it!
+
+## Changelog
+
+## Thanks
