@@ -5,6 +5,10 @@
 Custom configuration file to CS:GO made completly by me.
 
 ## Description
+
+Every single command is described.
+
+Settings:
 * Sound settings
 * Model settings
 * HUD settings
@@ -14,7 +18,23 @@ Custom configuration file to CS:GO made completly by me.
 * Server settings
 * Game settings
 * Other settings
-* Key binds
+
+Key binds:
+* Default binds
+* Mouse binds
+* Num binds
+* Movement binds
+* Grenades binds
+* AFK binds
+* Custom binds
+* Radio binds
+* Buy binds
+
+Aliases:
+* Shortcuts of console commands
+* Host server configuration
+* Host give weapon
+* Host map changer
 
 ## Installation
 
