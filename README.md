@@ -1,4 +1,5 @@
 ![PRs Welcome](https://img.shields.io/badge/license-free-blue)
+
 Custom configuration file to CS:GO made completly by me
 
 ## Description
