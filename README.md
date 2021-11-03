@@ -1,3 +1,5 @@
+![konfig.cfg](csgokfg.png)
+
 ## konfig.cfg
 
 ![PRs Welcome](https://img.shields.io/badge/license-free-blue) lol.
