@@ -1,4 +1,4 @@
-![konfig.cfg](csgokfg.png)
+![cms](https://user-images.githubusercontent.com/93284070/158826986-23a53f17-2ac0-4054-842f-9ac73cf5e70f.png)
 
 ## konfig.cfg
 
