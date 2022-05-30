@@ -44,7 +44,7 @@ Open `Steam` and go to `Steam Library`, right click on `Counter-Strike: Global O
 
 In section `Launch options` write or paste following text:
 
-`+fps_max 999 -novid -tickrate 128 -nojoy cl_forcepreload 1 +exec konfig.cfg`
+`-novid -tickrate 128 -nojoy +exec konfig.cfg`
 
 In left menu choose `Local files` and click `Browse...`.
 
